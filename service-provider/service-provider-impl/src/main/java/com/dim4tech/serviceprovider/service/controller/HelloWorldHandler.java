@@ -1,6 +1,6 @@
 package com.dim4tech.serviceprovider.service.controller;
 
-import com.dim4tech.serviceprovider.service.dto.HelloWorldResponse;
+import com.dim4tech.serviceprovider.api.service.HelloWorldResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
