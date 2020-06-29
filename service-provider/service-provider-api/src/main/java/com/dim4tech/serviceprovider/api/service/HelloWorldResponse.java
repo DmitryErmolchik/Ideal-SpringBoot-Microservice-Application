@@ -1,12 +1,14 @@
 package com.dim4tech.serviceprovider.api.service;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
+import lombok.NoArgsConstructor;
 
 @Data
-@RequiredArgsConstructor
+@NoArgsConstructor
+@AllArgsConstructor
 public class HelloWorldResponse {
 
-    private final String message;
+    private String message;
 
 }
