@@ -1,6 +1,6 @@
 package com.dim4tech.serviceclient.service.client;
 
-import com.dim4tech.serviceclient.api.dto.HelloWorldResponse;
+import com.dim4tech.serviceprovider.api.service.HelloWorldResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;

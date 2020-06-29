@@ -1,6 +1,6 @@
 package com.dim4tech.serviceclient.configuration;
 
-import com.dim4tech.serviceclient.api.controller.HelloWorldHandler;
+import com.dim4tech.serviceprovider.api.service.HelloWorldHandler;
 import org.glassfish.jersey.client.proxy.WebResourceFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

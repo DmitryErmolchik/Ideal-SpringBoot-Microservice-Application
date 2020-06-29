@@ -1,6 +1,6 @@
 package com.dim4tech.serviceclient.service.client;
 
-import com.dim4tech.serviceclient.api.controller.HelloWorldHandler;
+import com.dim4tech.serviceprovider.api.service.HelloWorldHandler;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
